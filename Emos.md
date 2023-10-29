@@ -68,3 +68,10 @@ Perangkat Keras dan Perangkat Lunak:
 
 Metode dan algoritma ini akan memastikan aplikasi Emos mampu mengenali emosi pengguna dengan tepat dan memberikan respons yang sesuai, sehingga membantu individu dalam manajemen stres dan pengendalian emosi.
 
+### Struktur Data
+![alt text](https://github.com/shafwanmursyid/project/blob/main/Untitled%20Diagram.drawio.png?raw=true)
+
+### Arsitektur Sistem
+![alt text](https://github.com/shafwanmursyid/project/blob/main/Untitled%20Diagram.drawio%20(3).png?raw=true)
+
+

@@ -1,9 +1,28 @@
 # Proyek: Pengembangan Sistem Aplikasi Autoterapi Berbasis Pengenalan Emosi untuk Meningkatkan Manajemen Stres
 ### Pendahuluan
-Artikel ini membahas proyek pengembangan aplikasi autoterapi berbasis pengenalan emosi dari suara untuk meningkatkan manajemen stres.
+Dalam dunia yang semakin terhubung dan dinamis, tantangan untuk menjaga kesehatan mental dan mengatasi stres telah menjadi semakin signifikan. Kesehatan mental yang baik adalah kunci bagi individu untuk menghadapi berbagai tekanan dalam kehidupan sehari-hari. Oleh karena itu, dalam era teknologi informasi yang terus berkembang, pengembangan solusi inovatif dalam manajemen stres menjadi semakin penting.
+
+Proyek "Pengembangan Sistem Aplikasi Autoterapi Berbasis Pengenalan Emosi untuk Meningkatkan Manajemen Stres" adalah sebuah upaya untuk memanfaatkan teknologi canggih dalam membantu individu mengelola stres dan meningkatkan kesehatan mental mereka. Aplikasi ini berfokus pada pengenalan emosi dari suara, sebuah terobosan yang menjanjikan dalam dunia kesehatan mental.
+
+Dengan kemampuan untuk mendeteksi dan memahami emosi dalam suara, aplikasi ini bertujuan untuk memberikan respons yang tepat dan mendukung pengguna dalam mengatasi stres mereka. Respons ini bisa berupa pesan suara yang menenangkan, panduan meditasi, atau tindakan lain yang dapat membantu individu merasa lebih baik.
+
+Dalam proyek ini, kami akan menjelajahi teknologi pengenalan emosi yang canggih, pengembangan aplikasi berbasis mobile, dan integrasi sensor suara. Pada project ini mengarah pada menciptakan pengalaman yang efektif dan bermanfaat bagi individu yang mencari cara untuk meningkatkan kesehatan mental mereka.
+
+Dengan aplikasi ini, diharapkan dapat memberikan kontribusi positif dalam memajukan manajemen stres dan kesehatan mental di era digital ini. Proyek ini adalah langkah menuju dunia yang lebih sadar emosi dan lebih peduli akan kesejahteraan mental individu.
 
 ### Latar Belakang
-Pengembangan aplikasi autoterapi berbasis pengenalan emosi dari suara adalah solusi inovatif untuk membantu individu mengatasi stres. Pengoptimalan sistem aplikasi ini bertujuan meningkatkan efektivitas dan responsivitas terhadap keadaan emosional pengguna, memberikan dukungan yang lebih baik dalam manajemen stres dan pengendalian emosi.
+Teknologi telah mengubah cara kita menjalani kehidupan sehari-hari, termasuk cara kita menghadapi stres dan menjaga kesehatan mental. Dalam era digital ini, kita memiliki akses lebih mudah ke berbagai perangkat teknologi yang dapat digunakan untuk membantu mengatasi stres dan meningkatkan manajemen emosi.
+
+Teknologi pengenalan emosi adalah salah satu terobosan terbaru yang menjanjikan dalam bidang kesehatan mental. Teknologi ini memungkinkan sistem untuk mendeteksi dan memahami ekspresi wajah, suara, bahasa tubuh, dan tanda-tanda emosi manusia. Hal ini memungkinkan penggunaan teknologi sebagai alat bantu dalam manajemen stres dan meningkatkan kesehatan mental.
+
+Dalam proyek "Pengembangan Sistem Aplikasi Autoterapi Berbasis Pengenalan Emosi," kami menyoroti perkembangan teknologi yang memungkinkan kita untuk secara otomatis mengenali emosi individu. Teknologi ini didasarkan pada kecerdasan buatan (AI) dan algoritma pengenalan yang semakin canggih.
+
+Aplikasi ini bertujuan untuk memberikan pendekatan yang inovatif dalam membantu individu mengelola stres mereka. Dengan teknologi pengenalan emosi, aplikasi ini mampu memberikan respons yang disesuaikan dengan emosi pengguna. Misalnya, saat pengguna merasa stres, aplikasi ini dapat memberikan panduan meditasi atau pesan suara yang menenangkan.
+
+Teknologi ini juga mengintegrasikan perangkat cerdas, seperti mikrofon dan kamera, untuk mengumpulkan data emosi pengguna. Ini memungkinkan analisis emosi yang lebih mendalam dan respons yang lebih tepat waktu.
+
+Dalam proyek ini, kami akan menggali lebih jauh teknologi pengenalan emosi, bagaimana mengintegrasikannya dalam aplikasi, dan bagaimana teknologi ini dapat membantu individu dalam manajemen stres dan kesehatan mental. Dengan teknologi ini, diharapkan dapat memberikan solusi yang efektif dalam mengatasi tantangan kesehatan mental di era digital ini.
+
 
 ### Branding
 
@@ -44,6 +63,7 @@ Sistem | Memberikan akses catatan perkembangan dari waktu ke waktu | Dapat melac
 Sistem | Memberikan respons suara yang menenangkan ketika emosi terdeteksi atau ketika pengguna membutuhkan | Dukungan untuk meredakan stress atau kebutuhannya tersampaikan | ⭐⭐⭐⭐
 Sistem | Mengingatkan pengguna terkait yang harus dilakukannya pada hari tertentu di pagi hari | Pengelolaan waktu dilakukan dengan baik | ⭐⭐⭐⭐
 
+
 ### Metode dan Algoritma
 
 Pada proyek Emos, kami akan menggunakan berbagai metode dan algoritma untuk mengintegrasikan pengenalan emosi suara dan respon berbasis emosi. Berikut adalah metode dan algoritma yang akan digunakan dalam proyek ini:
@@ -75,3 +95,23 @@ Metode dan algoritma ini akan memastikan aplikasi Emos mampu mengenali emosi pen
 ![alt text](https://github.com/shafwanmursyid/project/blob/main/Untitled%20Diagram.drawio%20(3).png?raw=true)
 
 
+### Deskripsi Teknologi
+Mesin Komputasi
+1.	Edge Server: Raspberry Pi 4 Model B. Raspberry Pi digunakan sebagai edge server untuk pemrosesan lokal dan pengenalan emosi dari suara pengguna. Raspberry Pi 4 menawarkan kinerja yang cukup untuk tugas ini dan memiliki koneksi WiFi dan Bluetooth yang berguna.
+2.	Cloud Server: Google Cloud Platform (GCP): GCP menyediakan Compute Engine untuk hosting aplikasi dan menyimpan data. Ini juga menawarkan BigQuery untuk analisis data, dan TensorFlow untuk pemrosesan AI jika memerlukan pemrosesan yang intensif.
+3.	Smartphone: Aplikasi Emos tersedia untuk perangkat Android. Ini memungkinkan pengguna untuk mengakses sistem dari smartphone mereka.
+
+
+Software Development
+1.	Mobile Development: Flutter digunakan untuk pengembangan aplikasi mobile Emos. Flutter memungkinkan pengembangan aplikasi lintas platform yang konsisten dan menarik.
+2.	Backend Development: Django adalah kerangka kerja Python yang kuat dan lengkap yang cocok untuk pengembangan aplikasi berbasis web. Ini menyediakan banyak fitur bawaan, termasuk otentikasi, manajemen basis data, dan administrasi yang mudah digunakan.
+3.	PubSub (Publish-Subscribe): Redis dapat digunakan sebagai sistem Pub/Sub dengan modul Redis Streams. Ini memungkinkan untuk mengirim pesan dan mendengarkan pesan secara real-time. Redis Streams cocok untuk aplikasi yang memerlukan kecepatan dan kesederhanaan.
+
+
+Sensor
+1.	Mikrofon: Mikrofon digunakan untuk merekam suara pengguna. Detail merk dan model mikrofon akan disesuaikan dengan kebutuhan proyek.
+
+
+Responder
+1.	Speaker digunakan untuk memberikan respons audio kepada pengguna, seperti pesan suara atau panduan meditasi, sesuai dengan kondisi emosi yang terdeteksi.
+Deskripsi teknologi ini mencakup perangkat keras dan perangkat lunak yang digunakan dalam proyek Emos untuk pengenalan emosi, respons, dan manajemen stres. Setiap teknologi dipilih untuk memenuhi kebutuhan dan tujuan proyek dengan baik.

@@ -118,13 +118,13 @@ Deskripsi teknologi ini mencakup perangkat keras dan perangkat lunak yang diguna
 
 
 
-•	L. Kerkeni, Y. Serrestou, M. Mbarki, K. Raoof, M. Ali Mahjoub, and C. Cleder, ‘Automatic Speech Emotion Recognition Using Machine Learning’, Social Media and Machine Learning. IntechOpen, Feb. 19, 2020. doi: 10.5772/intechopen.84856.
-•	https://www.who.int/indonesia/news/novel-coronavirus/new-infographics/who-stress-management-guide
-•	https://www.medicalnewstoday.com/articles/145855 Why stress happens and how to manage it
-•	R. N. Natasha Raja Ahmad Anuar, N. F. Elias, N. H. Rohmah Nurahim, N. A. Muhammad, R. M. Abd Rahman and S. F. Mat Noor, "The Design of a Mobile Application for Managing Stress, DailyCalm," 2021 International Conference on Electrical Engineering and Informatics (ICEEI), Kuala Terengganu, Malaysia, 2021, pp. 1-6, doi: 10.1109/ICEEI52609.2021.9611156. 
-•	B. Thanasekhar, N. Gomathy, A. Kiruthika and S. Swarnalaxmi, "Machine Learning Based Academic Stress Management System," 2019 11th International Conference on Advanced Computing (ICoAC), Chennai, India, 2019, pp. 147-151, doi: 10.1109/ICoAC48765.2019.246831.
-•	A. Baharum, T. W. Seong, N. H. M. Zain, N. M. M. Yusop, M. Omar and N. M. Rusli, "Releasing stress using music mood application: DeMuse," 2017 International Conference on Information and Communication Technology Convergence (ICTC), Jeju, Korea (South), 2017, pp. 351-355, doi: 10.1109/ICTC.2017.8191001.
-•	P. Chyan, A. Achmad, I. Nurtanio and I. S. Areni, "A Deep Learning Approach for Stress Detection Through Speech with Audio Feature Analysis," 2022 6th International Conference on Information Technology, Information Systems and Electrical Engineering (ICITISEE), Yogyakarta, Indonesia, 2022, pp. 1-5, doi: 10.1109/ICITISEE57756.2022.10057845.
+- L. Kerkeni, Y. Serrestou, M. Mbarki, K. Raoof, M. Ali Mahjoub, and C. Cleder, ‘Automatic Speech Emotion Recognition Using Machine Learning’, Social Media and Machine Learning. IntechOpen, Feb. 19, 2020. doi: 10.5772/intechopen.84856.
+- https://www.who.int/indonesia/news/novel-coronavirus/new-infographics/who-stress-management-guide
+- https://www.medicalnewstoday.com/articles/145855 Why stress happens and how to manage it
+- R. N. Natasha Raja Ahmad Anuar, N. F. Elias, N. H. Rohmah Nurahim, N. A. Muhammad, R. M. Abd Rahman and S. F. Mat Noor, "The Design of a Mobile Application for Managing Stress, DailyCalm," 2021 International Conference on Electrical Engineering and Informatics (ICEEI), Kuala Terengganu, Malaysia, 2021, pp. 1-6, doi: 10.1109/ICEEI52609.2021.9611156. 
+- B. Thanasekhar, N. Gomathy, A. Kiruthika and S. Swarnalaxmi, "Machine Learning Based Academic Stress Management System," 2019 11th International Conference on Advanced Computing (ICoAC), Chennai, India, 2019, pp. 147-151, doi: 10.1109/ICoAC48765.2019.246831.
+- A. Baharum, T. W. Seong, N. H. M. Zain, N. M. M. Yusop, M. Omar and N. M. Rusli, "Releasing stress using music mood application: DeMuse," 2017 International Conference on Information and Communication Technology Convergence (ICTC), Jeju, Korea (South), 2017, pp. 351-355, doi: 10.1109/ICTC.2017.8191001.
+- P. Chyan, A. Achmad, I. Nurtanio and I. S. Areni, "A Deep Learning Approach for Stress Detection Through Speech with Audio Feature Analysis," 2022 6th International Conference on Information Technology, Information Systems and Electrical Engineering (ICITISEE), Yogyakarta, Indonesia, 2022, pp. 1-5, doi: 10.1109/ICITISEE57756.2022.10057845.
 
 
 

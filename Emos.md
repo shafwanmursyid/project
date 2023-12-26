@@ -118,8 +118,22 @@ Deskripsi teknologi ini mencakup perangkat keras dan perangkat lunak yang diguna
 
 
 ### Progres Hasil
-via camera 
+Pengenalan Emosi Via Camera
+
+Emosi netral
 ![alt text](https://github.com/shafwanmursyid/project/blob/main/netral.jpg?raw=true)
+
+Emosi senang
+![alt text](https://github.com/shafwanmursyid/project/blob/main/senang.jpg?raw=true)
+
+Emosi sedih
+![alt text](https://github.com/shafwanmursyid/project/blob/main/sedih.jpg?raw=true)
+
+Emosi marah
+![alt text](https://github.com/shafwanmursyid/project/blob/main/marah.jpg?raw=true)
+
+Emosi terkejut
+![alt text](https://github.com/shafwanmursyid/project/blob/main/terkejut.jpg?raw=true)
 
 
 ### References

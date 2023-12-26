@@ -117,7 +117,12 @@ Responder
 Deskripsi teknologi ini mencakup perangkat keras dan perangkat lunak yang digunakan dalam proyek Emos untuk pengenalan emosi, respons, dan manajemen stres. Setiap teknologi dipilih untuk memenuhi kebutuhan dan tujuan proyek dengan baik.
 
 
+### Progres Hasil
+via camera 
+![alt text](https://github.com/shafwanmursyid/project/blob/main/netral.jpg?raw=true)
 
+
+### References
 - L. Kerkeni, Y. Serrestou, M. Mbarki, K. Raoof, M. Ali Mahjoub, and C. Cleder, ‘Automatic Speech Emotion Recognition Using Machine Learning’, Social Media and Machine Learning. IntechOpen, Feb. 19, 2020. doi: 10.5772/intechopen.84856.
 - https://www.who.int/indonesia/news/novel-coronavirus/new-infographics/who-stress-management-guide
 - https://www.medicalnewstoday.com/articles/145855 Why stress happens and how to manage it

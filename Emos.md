@@ -1,5 +1,7 @@
 # Proyek: Pengembangan Sistem Aplikasi Autoterapi Berbasis Pengenalan Emosi untuk Meningkatkan Manajemen Stres
 ### Pendahuluan
+source code : https://drive.google.com/drive/folders/1gGAS2iV8QKlp9C5R8MD1pWDaWqLyK74c?usp=sharing
+
 Dalam dunia yang semakin terhubung dan dinamis, tantangan untuk menjaga kesehatan mental dan mengatasi stres telah menjadi semakin signifikan. Kesehatan mental yang baik adalah kunci bagi individu untuk menghadapi berbagai tekanan dalam kehidupan sehari-hari. Oleh karena itu, dalam era teknologi informasi yang terus berkembang, pengembangan solusi inovatif dalam manajemen stres menjadi semakin penting.
 
 Proyek "Pengembangan Sistem Aplikasi Autoterapi Berbasis Pengenalan Emosi untuk Meningkatkan Manajemen Stres" adalah sebuah upaya untuk memanfaatkan teknologi canggih dalam membantu individu mengelola stres dan meningkatkan kesehatan mental mereka. Aplikasi ini berfokus pada pengenalan emosi dari suara, sebuah terobosan yang menjanjikan dalam dunia kesehatan mental.

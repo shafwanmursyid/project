@@ -136,6 +136,10 @@ Emosi terkejut
 ![alt text](https://github.com/shafwanmursyid/project/blob/main/terkejut.jpg?raw=true)
 
 
+Source code :
+https://drive.google.com/drive/folders/1gGAS2iV8QKlp9C5R8MD1pWDaWqLyK74c?usp=sharing
+
+
 ### References
 - L. Kerkeni, Y. Serrestou, M. Mbarki, K. Raoof, M. Ali Mahjoub, and C. Cleder, ‘Automatic Speech Emotion Recognition Using Machine Learning’, Social Media and Machine Learning. IntechOpen, Feb. 19, 2020. doi: 10.5772/intechopen.84856.
 - https://www.who.int/indonesia/news/novel-coronavirus/new-infographics/who-stress-management-guide
